@@ -1,0 +1,19 @@
+.container{
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  display: block;
+  width: 700px;
+  margin: 30px;
+  border-radius: 10px;
+}
+.tableRow{
+  justify-content: space-between;
+  border: 1px solid gray;
+ border-radius: 5px;
+}
+
+.tableData{
+  padding: 20px;
+  border: 1px solid gray;
+}
